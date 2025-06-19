@@ -27,6 +27,11 @@ dependencies:
   get_it: ^8.0.3
   # this package is used for adapting screen and font size
   flutter_screenutil: ^5.9.3
+  flutter_bloc: ^9.1.1
+  freezed_annotation: ^3.0.0
+  json_serializable: ^6.9.5
+  supabase_flutter: ^2.9.1
+  flutter_dotenv: ^5.2.1
 
 dev_dependencies:
   flutter_test:
@@ -34,6 +39,8 @@ dev_dependencies:
 
 
   flutter_lints: ^5.0.0
+  build_runner: ^2.5.2
+  freezed: ^3.0.6
 
 
 flutter:
@@ -43,3 +50,4 @@ flutter:
 
   assets:
     - assets/images/
+    - .env

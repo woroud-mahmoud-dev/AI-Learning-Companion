@@ -4,5 +4,5 @@ class AppImages {
   static const String onBoarding1 = 'assets/images/on_boarding_1.json';
   static const String onBoarding2 = 'assets/images/on_boarding_2.json';
   static const String onBoarding3 = 'assets/images/on_boarding_3.json';
-
+  static const String ai = 'assets/images/ai.json';
 }

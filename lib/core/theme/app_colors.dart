@@ -9,6 +9,7 @@ class AppColors {
   static const textSecondary = Color(0xFF64748B);
   static const success = Color(0xFF10B981);
   static const error = Color(0xFFEF4444);
+  static const fillBackground = Color.fromARGB(255, 212, 236, 255);
 
   // Dark
   static const darkPrimary = Color(0xFF60A5FA);
